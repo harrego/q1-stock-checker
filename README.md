@@ -6,6 +6,8 @@ Keychron Q1 live stock checker Discord bot. Notifies you when keyboards are in s
 - got
 - jssoup
 - node-cron
+- csv-parse
+- csv-stringify
 
 ## Usage
 ```sh
