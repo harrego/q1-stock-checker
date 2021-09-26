@@ -99,6 +99,5 @@ client.on('ready', () => {
     cron.schedule('*/25 * * * *', async () => {
         await checkStock(chan);
     });
-    checkStock(chan)
 });
 
